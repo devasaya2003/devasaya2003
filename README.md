@@ -3,9 +3,7 @@
 Just your friendly neighbourhood developer who has mastered the ancient art of ~~asking AI nicely~~ coding! 🤖✨
 
 ## What's my deal?
-* I build things. Sometimes they're innovative, sometimes I'm just reinventing the wheel (but hey, it's MY wheel! 🎨)
-* Currently in my "figuring things out" era - because aren't we all? 🤔
-* Turning chaos into code, one project at a time 🌪️→💻
+* I build things. Sometimes they're innovative, sometimes I'm just reinventing the wheel 🎨
 * Addicted to that "OH, NOW I GET IT!" moment in programming 🎯
 
 ### Why do I love building stuff?
